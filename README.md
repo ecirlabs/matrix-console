@@ -1,6 +1,11 @@
-# Matrix OS — A Living Manifesto
+# Matrix Console
 
-> A Peer-to-Peer Operating Fabric for AI Agents
+> The graphical interface for Matrix OS — A Peer-to-Peer Operating Fabric for AI Agents
+
+## 🔗 Related Repositories
+- [matrix-proto](https://github.com/ecirlabs/matrix-proto) - Wire contracts for Souls, Matrices, and transport protocols
+- [matrix-core](https://github.com/ecirlabs/matrix-core) - Runtime engine for Wasm, P2P, and Matrix logic
+- [matrix-console](https://github.com/ecirlabs/matrix-console) - This repository: GUI for creation, observation, and control
 
 ## 🌟 Overview
 
